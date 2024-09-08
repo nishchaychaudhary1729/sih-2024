@@ -1,0 +1,5 @@
+stories:
+- story: fetch course details
+  steps:
+    - intent: ask_course_details
+    - action: action_fetch_course_details
